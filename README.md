@@ -1,5 +1,5 @@
 # Trabajo 1 - Danza UNIACC
 
-Proyecto académico para la evaluación de la Unidad 1. Incluye MVVM, Clean Architecture, Repository, Room, Flow/StateFlow y Hilt.
+Proyecto académico para la evaluación sumativa de la Unidad 1. 
 
-La configuración usa Compose BOM para evitar errores de resolución de Material 3.
+Incluye MVVM, Clean Architecture, Repository, Room, Flow/StateFlow y Hilt.
